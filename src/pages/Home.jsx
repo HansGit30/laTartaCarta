@@ -2,7 +2,7 @@ import Categorias from '../components/Categorias'
 import Promos from '../components/Promos'
 import '../css/style.css'
 import Carta from './Carta'
-import insta from '../assets/instagram-negro-logo.png'
+import insta from '../assets/instagram-blanco-logo.png'
 import { Link } from "react-router-dom"
 import logo from '../assets/WEB LATARTA-04.png'
 
